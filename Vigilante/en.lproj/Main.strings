@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0TS-Lm-ilh"; */
+"0TS-Lm-ilh.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Rs-ZJ-Y1s"; */
+"4Rs-ZJ-Y1s.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Buscar"; ObjectID = "7cu-3f-s26"; */
+"7cu-3f-s26.title" = "Buscar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "99J-qr-dk7"; */
+"99J-qr-dk7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9FT-uP-rKL"; */
+"9FT-uP-rKL.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Cerca de mi"; ObjectID = "H9K-e2-ugi"; */
+"H9K-e2-ugi.title" = "Cerca de mi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LUX-dV-DLr"; */
+"LUX-dV-DLr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Lff-J7-agj"; */
+"Lff-J7-agj.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NuR-Tz-Sbx"; */
+"NuR-Tz-Sbx.text" = "Label";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "RNw-ex-vut"; */
+"RNw-ex-vut.text" = "0";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Tlk-na-GfT"; */
+"Tlk-na-GfT.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Y9b-49-O4L"; */
+"Y9b-49-O4L.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dmN-RY-3pb"; */
+"dmN-RY-3pb.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Timeline"; ObjectID = "fBO-Jt-rVc"; */
+"fBO-Jt-rVc.title" = "Timeline";
+
+/* Class = "UIButton"; normalTitle = "Colonias siguiendo"; ObjectID = "fFC-k0-h8n"; */
+"fFC-k0-h8n.normalTitle" = "Colonias siguiendo";
+
+/* Class = "UITextField"; placeholder = "¿Qué está pasando?"; ObjectID = "fLW-Tv-OSs"; */
+"fLW-Tv-OSs.placeholder" = "¿Qué está pasando?";
+
+/* Class = "UITabBarItem"; title = "Perfil"; ObjectID = "o8f-e3-bfu"; */
+"o8f-e3-bfu.title" = "Perfil";
+
+/* Class = "UINavigationItem"; title = "Timeline"; ObjectID = "s68-R7-L0g"; */
+"s68-R7-L0g.title" = "Timeline";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uEE-1d-Pio"; */
+"uEE-1d-Pio.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xHo-3A-6Ci"; */
+"xHo-3A-6Ci.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Yo"; ObjectID = "xR5-o5-UMf"; */
+"xR5-o5-UMf.title" = "Yo";
